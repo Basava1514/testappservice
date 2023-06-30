@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'gittestproject'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_99DFBEFF28AA4481BCEDED9A66C2CC83 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D88BB2131EF44DE4B485017C19B05A44 }}
